@@ -1,1 +1,1 @@
-- resources for cdn
+# resources for cdn
